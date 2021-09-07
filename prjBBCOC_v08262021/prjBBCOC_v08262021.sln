@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjBBCOC_v08262021", "prjBBCOC_v08262021\prjBBCOC_v08262021.vbproj", "{1416AD31-6217-497A-AE84-4D28CF3F5196}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BBCOC_setup", "BBCOC_setup\BBCOC_setup.vdproj", "{8E3F2A98-28A5-4A54-B608-94E63F7CC010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1416AD31-6217-497A-AE84-4D28CF3F5196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1416AD31-6217-497A-AE84-4D28CF3F5196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1416AD31-6217-497A-AE84-4D28CF3F5196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1416AD31-6217-497A-AE84-4D28CF3F5196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3F2A98-28A5-4A54-B608-94E63F7CC010}.Debug|Any CPU.ActiveCfg = Debug
+		{8E3F2A98-28A5-4A54-B608-94E63F7CC010}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
